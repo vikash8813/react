@@ -9,5 +9,5 @@ const a = (
     </div>
 )
 createRoot(document.getElementById('root')).render(
-    App()
+    <App />
 )
